@@ -1,4 +1,7 @@
-# React + Vite
+# Employee App using React 
+- Allows you to add employee data , filter them based on year
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -10,5 +13,5 @@ Currently, two official plugins are available:
 
 
 
-# Command to run the app
+## Command to run the app
 - npm run dev
